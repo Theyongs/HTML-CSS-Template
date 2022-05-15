@@ -1,4 +1,4 @@
-# HTML-CSS-Template
-Coding Free PSD Template By Graphberry Using HTML and CSS
+# HTML And CSS First Template
+Converted Free PSD Template By Graphberry To Responsive HTML and CSS Page
 ## Demo
 https://Theyongs.github.io/HTML-CSS-Template/
